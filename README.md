@@ -1,6 +1,6 @@
 # ARC-Challenge
 
-This will have a series of notebooks (with date in the file name), to document the progress I have made at getting GPT4 to solve ARC.
+This contains a series of Jupyter notebooks (with date in the file name), to document the progress I have made at getting GPT4 to solve ARC.
 
 Papers:
 - https://arxiv.org/abs/2306.03553 - An Approach to Solving the Abstraction and Reasoning Corpus (ARC) Challenge: My ARC Essay Challenge submission, based primarily on my initial experiments documented in arc_challenge_basic.ipynb
