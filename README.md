@@ -1,7 +1,7 @@
 # ARC-Challenge
 
-## Latest Update (23 Jul):
-- Added ARC_Challenge_23Jul2023.ipynb : Latest iteration of GPT4 API to automate solving ARC Challenge - Note it can get expensive, running one iterative feedback loop cycle for one task costs about 30-40 cents.
+## Latest Update (22 Jul):
+- Added ARC_Challenge_22Jul2023.ipynb : Latest iteration of GPT4 API to automate solving ARC Challenge - Note it can get expensive, running one iterative feedback loop cycle for one task costs about 30-40 cents.
 - Added 220723 folder to showcase results from this Jupyter Notebook on 111 training set problems that have <3k context length. This number caters for the iterative feedback loop additional information, and is likely to not exceed 8k maximum token length.
 
 ## Overview
