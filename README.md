@@ -14,4 +14,5 @@ Papers:
   * Broad to specific grounding via efficient prompting
 
 Videos:
-- https://www.youtube.com/watch?v=vt2yG1da8Fg - Explanation of my initial experiments documented in arc_challenge_basic.ipynb 
+- https://www.youtube.com/watch?v=vt2yG1da8Fg - Explanation of my initial experiments documented in arc_challenge_basic.ipynb
+- https://www.youtube.com/watch?v=plVRxP8hQHY - LLMs as a system of expert agents
