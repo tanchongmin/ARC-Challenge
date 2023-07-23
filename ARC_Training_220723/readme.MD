@@ -1,9 +1,9 @@
 These are the experimental results for 111 ARC Training Set problems.
 
 Result:
-Solved - 49
-Partial Solve (Test Input not correct, but Task Demonstration is correct) - 3
-Unsolved - 59
+- Solved - 50
+- Partial Solve (Test Input not correct, but Task Demonstration is correct) - 3
+- Unsolved - 58
 
 Only 111 were used because we were trying to fit to the 8k context length of GPT4-API and web browser. 
 We eventually settled on 3k tokens with object view to cater for the multiple abstraction views.
