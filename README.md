@@ -1,7 +1,7 @@
 # ARC-Challenge
 
 ## Latest Update (8 Oct):
-Uploaded the full set of tasks to support the paper on using multiple agents for the ARC challenge. This is the more updated version compared to the 22 Jul version.
+Uploaded the full set of tasks to support the paper on using multiple agents for the ARC challenge. This is the more updated version compared to the 22 Jul version. Same number of solves as the 22 Jul version (50 out of 111 training set problems).
 
 ## Latest Update (22 Jul):
 Solves 50 out of 111 training set problems! Uses object and pixel abstraction spaces and helper functions to ground input-output relation!
