@@ -1,5 +1,8 @@
 # ARC-Challenge
 
+## Latest Update (8 Oct):
+Uploaded the full set of tasks to support the paper on using multiple agents for the ARC challenge. This is the more updated version compared to the 22 Jul version.
+
 ## Latest Update (22 Jul):
 Solves 50 out of 111 training set problems! Uses object and pixel abstraction spaces and helper functions to ground input-output relation!
 - Added ARC_Challenge_22Jul2023.ipynb : Latest iteration of GPT4 API to automate solving ARC Challenge - Note it can get expensive, running one iterative feedback loop cycle for one task costs about 30-40 cents.
