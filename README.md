@@ -2,8 +2,9 @@
 
 ## Refined Update (8 Oct):
 Solves 50 out of 111 training set problems! No change to earlier 22 Jul update. Added a more refined UI to go through the .html files for the 111 problems. Jupyter Notebook included inside the folder "LLM Expert Agents for ARC 8 Oct"
+Based on the latest paper, intending to add more functions and to refine the agents to improve performance, stay tuned!
 
-## Latest Update (22 Jul):
+## 22 Jul:
 Solves 50 out of 111 training set problems! Uses object and pixel abstraction spaces and helper functions to ground input-output relation!
 - Added ARC_Challenge_22Jul2023.ipynb : Latest iteration of GPT4 API to automate solving ARC Challenge - Note it can get expensive, running one iterative feedback loop cycle for one task costs about 30-40 cents.
 - Added ARC_Training_220723 folder to showcase results from this Jupyter Notebook on 111 training set problems that have <3k context length. This number caters for the iterative feedback loop additional information, and is likely to not exceed 8k maximum token length. 50/111 Solved
