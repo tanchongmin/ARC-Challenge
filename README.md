@@ -2,6 +2,7 @@
 
 ## Refined Update (8 Oct):
 Paper Uploaded at: https://arxiv.org/abs/2310.05146
+
 Solves 50 out of 111 training set problems! No change to earlier 22 Jul update. Added a more refined UI to go through the .html files for the 111 problems. Jupyter Notebook included inside the folder "LLM_Expert_Agents_For_ARC_08Oct2023"
 
 Based on the latest paper, intending to add more functions and to refine the agents to improve performance, stay tuned!
